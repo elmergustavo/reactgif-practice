@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactgif-practice/static/css/main.1e494564.chunk.css",
+    "main.js": "/reactgif-practice/static/js/main.0db4e3da.chunk.js",
+    "main.js.map": "/reactgif-practice/static/js/main.0db4e3da.chunk.js.map",
+    "runtime-main.js": "/reactgif-practice/static/js/runtime-main.49469e63.js",
+    "runtime-main.js.map": "/reactgif-practice/static/js/runtime-main.49469e63.js.map",
+    "static/js/2.c9f27f05.chunk.js": "/reactgif-practice/static/js/2.c9f27f05.chunk.js",
+    "static/js/2.c9f27f05.chunk.js.map": "/reactgif-practice/static/js/2.c9f27f05.chunk.js.map",
+    "index.html": "/reactgif-practice/index.html",
+    "precache-manifest.4d4899da1c5768c3aa703cba8ba4a84d.js": "/reactgif-practice/precache-manifest.4d4899da1c5768c3aa703cba8ba4a84d.js",
+    "service-worker.js": "/reactgif-practice/service-worker.js",
+    "static/css/main.1e494564.chunk.css.map": "/reactgif-practice/static/css/main.1e494564.chunk.css.map",
+    "static/js/2.c9f27f05.chunk.js.LICENSE.txt": "/reactgif-practice/static/js/2.c9f27f05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49469e63.js",
+    "static/js/2.c9f27f05.chunk.js",
+    "static/css/main.1e494564.chunk.css",
+    "static/js/main.0db4e3da.chunk.js"
+  ]
+}
