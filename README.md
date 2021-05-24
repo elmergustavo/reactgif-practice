@@ -1,6 +1,6 @@
-# This is an app made with create-react-app
+# Nuevo proyecto realizado
 
-## `xd`
+## `https://elmergustavo.github.io/reactgif-practice/`
 
 `Proyecto realizado en un curso de Udemy`
 
