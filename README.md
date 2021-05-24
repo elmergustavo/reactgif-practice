@@ -4,4 +4,3 @@
 
 `Proyecto realizado en un curso de Udemy`
 
-### LF
